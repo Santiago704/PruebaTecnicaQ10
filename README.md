@@ -14,5 +14,6 @@ La aplicacion tiene dos elementos:
      2.4 en el controlador encontramos el menu que interactua con el usuario tambien con el try-catch. MenuCont.cs
 
      2.5 por ultimo el program.cs ejecuta todo llamando al controlador.
+   
 
    
