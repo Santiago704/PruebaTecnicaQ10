@@ -7,10 +7,12 @@ La aplicacion tiene dos elementos:
    
      2.1 Data: contiene la conexion a la base de datos del punto 1. Conexion.cs
 
-     2.2 El model tiene la informacion de la tabla cliente con su informacion encapsulada. 
+     2.2 El model tiene la informacion de la tabla cliente con su informacion encapsulada. tarea.cs
 
-     2.3 En el Repository podemos encontrar la ligica para poder guardar, modificar, listar (aca se hace uso de listas) y eliminar tareas en todas se usa manejo de errores.
+     2.3 En el Repository podemos encontrar la ligica para poder guardar, modificar, listar (aca se hace uso de listas) y eliminar tareas en todas se usa manejo de errores. TareaRepository.sc
 
-     2.4 en el controlador encontramos el menu que interactua con el usuario tambien con el try-catch.
+     2.4 en el controlador encontramos el menu que interactua con el usuario tambien con el try-catch. MenuCont.cs
+
+     2.5 por ultimo el program.cs ejecuta todo llamando al controlador.
 
    
