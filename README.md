@@ -1,7 +1,7 @@
 APLICACION DE CONSOLA - LISTA DE TAREAS
 
 La aplicacion tiene dos elementos:
-1. Bases de datos en SQL server,  en el repositorio remoto se encuentra el archivo sriptBD, se ejecuta antes de ejecutar el programa de consola, tambientener encuenta que tiene con procedimientos almacenados. NOTA: Recuerde que debe de crear la base de datos ListaTarea antes de ejecutar el script que se encuentra en el repositorio.
+1. Bases de datos en SQL server,  en el repositorio remoto se encuentra el archivo sriptBD, se debe ejecutar antes de correr el programa de consola, tambientener en cuenta que tiene procedimientos almacenados. NOTA: Recuerde que debe de crear la base de datos ListaTarea antes de ejecutar el script que se encuentra en el repositorio.
 
 2. Progrma en C# con framewor .net 4.8 que consta de las siguientes carpetas:
    
